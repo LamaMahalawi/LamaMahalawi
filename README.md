@@ -8,7 +8,7 @@
 - 🚀 I’m always eager to grow, learn, and explore more areas within the tech field.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamamahalawi23/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lama-4321-@hotmail) [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/lama_mahalawi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lamamahalawi23/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Lama-4321-@hotmail.com) [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/lama_mahalawi)
 
 
 # 💻 Tech Stack:
